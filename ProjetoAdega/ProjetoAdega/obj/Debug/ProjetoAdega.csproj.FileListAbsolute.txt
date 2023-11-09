@@ -1,0 +1,13 @@
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.TelaInicial.resources
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.csproj.GenerateResource.cache
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\bin\Debug\ProjetoAdega.exe.config
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\bin\Debug\ProjetoAdega.exe
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\bin\Debug\ProjetoAdega.pdb
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.Properties.Resources.resources
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.exe
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.pdb
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.TelaCadastro.resources
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.cadBebidas.resources
+C:\Users\Raul\source\repos\ProjetoAdega\ProjetoAdega\obj\Debug\ProjetoAdega.consulta.consBebida.resources
